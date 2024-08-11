@@ -1,5 +1,5 @@
 # AWS Certified Cloud Practitioner Certification - My Notes
-
+## IMP One : EC2, ECS, ECR, Lambda, Elastic Cache, Route53, CloudFront, API Gateway, S3, Glacier, RDS, NLB/ALB, Security Groups/NACLs/VPCs, Cloud Watch
 ## Deployment Models for Cloud Computing
 
 - Cloud-Based Deployment
